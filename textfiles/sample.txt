@@ -1,0 +1,30 @@
+OSI 
+Open Systems Interconnections
+First Layer of OSI model
+Physical
+Second Layer of OSI model
+Data Link
+Third Layer of OSI model
+Network
+Fourth Layer of OSI model
+Transport
+Fifth Layer of OSI model
+Session
+Sixth Layer of OSI model
+Presentation
+Seventh Layer of OSI model
+Application
+Physical
+Converts data into bits to carry it across physical network equipment
+Data Link
+Handles node-to-node data transfer between devices on the same network
+Network
+Conducts routing between different networks, determining the most efficient path
+Transport
+Handles data transmission between devices using UDP and TCP protocols
+Session
+Manages connections and the opening and closing of sessions between devices
+Presentation
+Configures data into an acceptable format via translation, encryption, and compression
+Application
+Accesses protocols used by applications to communicate data to end users
