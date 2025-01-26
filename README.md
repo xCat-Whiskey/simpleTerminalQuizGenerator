@@ -8,10 +8,10 @@ There are known bugs such as answers replicating inside the answer section. I've
 To follow the sheet:
 
 View (RAW)
-Line 1: Question
-Line 2: Answer
-Line 3: Question
-Line 4: Answer
+• Line 1: Question 
+• Line 2: Answer 
+• Line 3: Question 
+• Line 4: Answer 
 
 How the code is written is line after line. 
 So, questions is whatever % 2 != 0, whereas modulus for answers is 0. 
