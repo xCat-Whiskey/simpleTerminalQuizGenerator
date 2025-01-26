@@ -5,11 +5,11 @@ There are known bugs such as answers replicating inside the answer section. I've
 
 To follow the sheet:
 
-Question
-Answer
-Question
-Answer
+Line 1: Question
+Line 2: Answer
+Line 3: Question
+Line 4: Answer
 
 How the code is written is line after line. 
-So, questions is whatever % whatever = 0, whereas modulus for answers is not 0. 
+So, questions is whatever % 2 != 0, whereas modulus for answers is 0. 
 Anyways, if you needed something simple and easy, here you are. Enjoy.
